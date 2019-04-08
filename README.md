@@ -57,6 +57,7 @@ end
 ### # Get an Overview
 
 ```ruby
+require "object_shadow"
 object.shadow # ObjectShadow of Object #47023274596520
 
 ## Lookup Chain
