@@ -1,6 +1,8 @@
-# Object#shadow [![[version]](https://badge.fury.io/rb/object.svg)](https://badge.fury.io/rb/object)  [![[travis]](https://travis-ci.org/janlelis/object.svg)](https://travis-ci.org/janlelis/object)
+# Object#shadow [![[version]](https://badge.fury.io/rb/object_shadow.svg)](https://badge.fury.io/rb/object_shadow)  [![[travis]](https://travis-ci.org/janlelis/object_shadow.svg)](https://travis-ci.org/janlelis/object_shadow)
 
-Have you ever been [confused by some of Ruby's meta-programming methods](https://idiosyncratic-ruby.com/25-meta-methodology.html). If your answer is *Yes*, you have come to the right place:
+Have you ever been [confused by some of Ruby's meta-programming methods?](https://idiosyncratic-ruby.com/25-meta-methodology.html)
+
+If your answer is *Yes*, you have come to the right place:
 
 ![Object and Shadow](/object_shadow.png)
 
@@ -55,8 +57,7 @@ end
 ### # Get an Overview
 
 ```ruby
-object.shadow
-# ObjectShadow of Object #47023274596520
+object.shadow # ObjectShadow of Object #47023274596520
 
 ## Lookup Chain
 
