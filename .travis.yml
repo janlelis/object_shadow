@@ -1,0 +1,18 @@
+sudo: false
+language: ruby
+
+rvm:
+- 2.6
+- 2.5
+- 2.4
+- 2.3
+- ruby-head
+- jruby-9.2.6.0
+- truffleruby
+
+matrix:
+  allow_failures:
+    - rvm: ruby-head
+    - rvm: truffleruby
+    - rvm: 2.3
+#   fast_finish: true
