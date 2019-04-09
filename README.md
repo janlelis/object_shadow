@@ -6,7 +6,7 @@ If your answer is *Yes*, you have come to the right place:
 
 ![Object and Shadow](/object_shadow.png)
 
-With **shadow**, every Ruby object has a shadow which encapsulates a clean API to access the object's variables and methods.
+With **shadow**, every Ruby object has a shadow which provides a clean API to access the object's variables and methods.
 
 Never again you will have to do the `x.methods - Object.methods` trick to get a meaningful method list.
 
