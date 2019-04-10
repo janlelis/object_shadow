@@ -190,6 +190,18 @@ Some of Ruby's core classes use `@`-less instance variables, such as [Structs](h
 
 Only some aspects of Ruby meta-programming are covered. However, **shadow** aims to cover all kinds of meta-programming. Maybe you have an idea about how to integrate `eval`, `method_missing`, and friends?
 
+### Does this Gem Include a Secret Mode which Activates an Improved Shadow Inspect?
+
+Yes, run the following command.
+
+```ruby
+ObjectShadow.include(ObjectShadow::DeepInspect)
+42.shadow
+```
+
+Requires the following gems: **paint**, **wirb**, **io-console**
+
+
 ## J-_-L
 
 Copyright (C) 2019 Jan Lelis <https://janlelis.com>. Released under the MIT license.
