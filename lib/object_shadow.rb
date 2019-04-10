@@ -8,6 +8,7 @@ require_relative "object_shadow/wrap"
 require_relative "object_shadow/instance_variables"
 require_relative "object_shadow/method_introspection"
 require_relative "object_shadow/info_inspect"
+require_relative "object_shadow/deep_inspect"
 
 class ObjectShadow
   include Wrap
