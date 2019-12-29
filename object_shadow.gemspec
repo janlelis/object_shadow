@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.summary       = "Metaprogramming Level 2"
   gem.description   = "provides a simple convenient API for accessing an object's state."
   gem.authors       = ["Jan Lelis"]
-  gem.email         = ["mail@janlelis.de"]
+  gem.email         = ["hi@ruby.consulting"]
   gem.homepage      = "https://github.com/janlelis/object_shadow"
   gem.license       = "MIT"
 
