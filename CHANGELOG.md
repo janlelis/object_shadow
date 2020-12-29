@@ -1,6 +1,6 @@
 ## CHANGELOG
 
-### 1.1.1 (unreleased)
+### 1.1.1
 
 * Relax Ruby requirement to allow Ruby 3.0
 
