@@ -32,7 +32,8 @@ end
 
 desc "#{gemspec.name} | Spec"
 task :spec do
-  sh "for file in spec/*_spec.rb; do ruby $file; done"
+  ruby "spec/object_shadow_instance_variables_spec.rb"
+  ruby "spec/object_shadow_method_introspection_spec.rb"
 end
 task default: :spec
 

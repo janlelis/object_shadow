@@ -1,4 +1,4 @@
-# Object#shadow [![[version]](https://badge.fury.io/rb/object_shadow.svg)](https://badge.fury.io/rb/object_shadow)  [![[travis]](https://travis-ci.org/janlelis/object_shadow.svg)](https://travis-ci.org/janlelis/object_shadow)
+# Object#shadow [![[version]](https://badge.fury.io/rb/object_shadow.svg)](https://badge.fury.io/rb/object_shadow)  [![[ci]](https://github.com/janlelis/object_shadow/workflows/Test/badge.svg)](https://github.com/janlelis/object_shadow/actions?query=workflow%3ATest)
 
 Have you ever been [confused by some of Ruby's meta-programming methods?](https://idiosyncratic-ruby.com/25-meta-methodology.html)
 
