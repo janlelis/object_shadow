@@ -204,6 +204,6 @@ Requires the following gems: **paint**, **wirb**, **io-console**
 
 ## J-_-L
 
-Copyright (C) 2019-2020 Jan Lelis <https://janlelis.com>. Released under the MIT license.
+Copyright (C) 2019-2021 Jan Lelis <https://janlelis.com>. Released under the MIT license.
 
 PS: This gem would not exist if the [instance gem](https://rubyworks.github.io/instance/) did not come up with the idea.
