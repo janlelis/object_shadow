@@ -18,5 +18,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.metadata      = { "rubygems_mfa_required" => "true" }
 
-  gem.required_ruby_version = ">= 2.0", "< 4.0"
+  gem.required_ruby_version = ">= 2.0"
 end
