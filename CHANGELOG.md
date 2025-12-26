@@ -1,6 +1,6 @@
 ## CHANGELOG
 
-### 1.1.2 (unreleased)
+### 1.1.2
 
 * Relax Ruby requirement to allow Ruby 4.0
 
